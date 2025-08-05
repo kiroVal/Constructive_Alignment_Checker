@@ -1,0 +1,134 @@
+0,1,2,3,4,5,6
+Week,Topics,Learning Activities,Learning Outcomes,Instructional Materials,"Deliverables/
+Outcomes",Assessment
+1,"Course Outline and Class Policies
+Overview of the tools, learning platforms, and coding environments to be used in class
+Project Overview
+Python Basics
+Introduction to Modeling and Simulation
+The Modeling Process","Discussion
+Tools demo
+Coding exercise
+LinkedIn Learning course completion","Describe the course outline and class policies.
+Explain the course outcomes and relate the learning output.
+Recall the features of the available learning platforms and coding environments
+Review basic programming structures using Python.
+Define and explain the terms model, simulation, and system.
+Perform the modeling process using Python","Class orientation slides
+APC Handbook
+LinkedIn Learning course for Python review: Hands-On Introduction: Python
+Introduction to Modeling and Simulation slides
+Bikeshare example from [2] to illustrate modeling process","LinkedIn Learning Certificate
+Bikeshare python code","Quiz
+Coding exercise"
+2,"Linear Regression
+Categorical Independent Variables","Code demo
+Computer simulation","Determine the best-fit linear model to a given data set
+Interpret the coefficients of a linear regression model
+Derive and interpret the coefficient of determination and the correlation coefficient in the context of a given data set.","Linear Models slides
+Code samples
+
+",Linear regression model coding assignment,Coding exercise
+3,"Logistic Regression
+Project Overview
+Project Work","Discussion
+LinkedIn Learning video viewing on the content for the sections in Project Deliverable 1
+LinkedIn Learning course completion","Create a logistic regression model given a data set
+Apply available Python libraries in developing a logistic regression model and calculating appropriate performance metrics
+Interpret the coefficients of a logistic regression model
+Create a problem statement for the chosen topic
+Write appropriate research questions
+Create the hypothesized solutions to the research questions","Logistic Regression slides
+LinkedIn Learning course: Machine Learning with Python: Logistic Regression
+Final project templates
+LinkedIn Learning videos on research:
+Independent and dependent variables (3 min, 25 sec)
+Elements of a research question (3 min, 26 sec)
+How to write a research question (2 min, 39 sec)
+Create research objectives (3 min, 13 sec)
+Research frameworks and hypotheses (3 min, 22 sec)","Logistic regression model coding assignment
+Project Deliverable 1","Quiz
+Coding exercise
+Project Deliverable 1"
+4-6,"Other nonlinear regression models
+Project Deliverable 2
+Data Preprocessing
+Data Analysis from Questionnaires","LinkedIn Learning course completion
+LinkedIn Learning video viewing on data preprocessing","Choose an appropriate method in creating a best fit model given a data set.
+Decide on how to handle categorical data and missing data.
+Explain each group’s project method for analysis.","LinkedIn Learning videos on nonlinear regression models:
+Defining natural logs and exponents
+Performing exponential regression analysis
+Performing logarithmic regression analysis
+Performing a power regression analysis
+Performing polynomial regression analysis
+Performing logistic regression
+LinkedIn Learning course: Python Data Analysis (2 hours, 30 minutes)
+LinkedIn Learning videos on data preprocessing (all come from the course Python: Working with Predictive Analytics (1 hour, 17 min)):
+Differentiate data types (4 min, 50 sec)
+Python libraries and data import (4 min, 34 sec)
+Handling missing values (4 min, 45 sec)
+Convert categorical data into numbers (6 min, 38 sec)
+Feature scaling (6 min, 58 sec)","Preprocessed project data set
+Project Deliverable 2","Coding exercise
+Quiz"
+7,"Estimating Models from Empirical Data
+Forecasting
+Stochastic Models
+Monte Carlo Simulation
+Optimization using Goal Seek","Discussion
+Code demo
+LinkedIn Learning course completion","Explore input data for analysis
+Apply basic forecasting models (naïve, moving average, trendline)
+Compare different types of forecasting models.
+Compute a variety of error measures.
+Simulate a stochastic process using the Monte Carlo method
+Perform optimization using goal seek.","Lecture slides
+Data sets for demo
+LinkedIn Learning course Excel: Analytics Tips (2 hours, 1 min)",LinkedIn Learning Certificate,"In-video quizzes
+Problem solving exercise"
+8,"Introduction to Machine Learning
+Python for Data Science
+Verification, Validation, Errors","Microsoft Learn module completion
+LinkedIn Learning course completion ","Describe machine learning and differentiate from traditional algorithms
+Create and test machine learning models
+Load a model and apply it to new sets of data
+Differentiate verification from validation
+Apply verification and validation guidelines to deterministic and stochastic models","Microsoft Learn module Introduction to Machine Learning
+LinkedIn Learning course Python for Data Science Essential Training Part 2","LinkedIn Learning Certificate
+
+Microsoft Learn badge and certificate","In-video quizzes
+Coding exercise"
+10,"Model Evaluation
+Project work: Discussion on Project Deliverable 3 + Consultation
+Case Study: Agent-Based Modeling – Virus Spread","Discussion
+Excel / Code demo
+Project consultation","Compute and interpret error measures
+Evaluate models
+Define and identify the components of agent-based models
+Apply ABM to virus spread","Lecture slides
+Data sets for demo
+LinkedIn Learning course Applied Machine Learning: Foundations",LinkedIn Learning certificate,"In-video quizzes
+Problem solving exercise"
+11,"Case Study: Epidemiology – SIR Model
+Project work: Discussion on Project Deliverable 4 + Consultation","Discussion
+Code demo","Define and explain the SIR Model
+Apply the SIR model to virus spread
+Simulate virus spread when interventions are executed","Lecture slides
+Data sets for demo",Simulation code,"Coding exercises and results interpretation
+"
+12,"Case Study: Queues
+Project work: Project Deliverable 4 completion","Lecture
+Demo
+Computer Simulation","Describe queueing theory
+Simulate queues at check-out counters
+Complete the pre-final draft copy of the final project","Lecture slides
+Data sets for demo",Paper pre-final draft,Pre-final draft
+13,Final paper peer review,"Lecture, demo, computer simulation",Give objective feedback on another group’s project.,"Pre-final draft
+Peer reviewer form",Filled-out Peer Reviewer form,Peer review
+14,Project Completion: Integration to final paper of peer reviews,"Group work
+Consultation","Integrate peer feedback into the final project.
+Complete the final project.","Final paper template
+Final project rubrics","Final paper
+Presentation slides
+Presentation Recording",Final project
