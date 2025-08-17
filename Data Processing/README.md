@@ -1,4 +1,4 @@
-## Syllabi Batch Docx to CSV Notebook
+# Syllabi Batch Docx to CSV Notebook
 This notebook helps you extract tables from multiple Word documents (.docx) and save them as CSV files, then combine those CSVs into a single file. It's designed for non-technical users who need to process syllabi or similar documents in bulk.
 
 ## Prerequisites
@@ -6,7 +6,7 @@ This notebook helps you extract tables from multiple Word documents (.docx) and 
 * Python 3.8+ installed
 * Jupyter Notebook installed (comes with Anaconda, or install via pip)
 
-## Step-by-Step Setup
+### Step-by-Step Setup
 1. Install Python and Jupyter Notebook
    * Download and install Anaconda (recommended for beginners), or
      Install Python from python.org and then run:
@@ -33,11 +33,12 @@ This notebook helps you extract tables from multiple Word documents (.docx) and 
      1. Extract tables from Word files to CSVs
      2. Combine all CSVs into one file
    * The notebook will print progress and save output files in the specified folders.
-## Output
+### Output
 * Individual CSV files for each Word document (in your output folder)
 * One combined CSV file with all data (in the combined output folder)
-## Troubleshooting
+### Troubleshooting
 * If you see errors about missing libraries, run the install commands above.
 * Make sure your folder paths are correct and use forward slashes (/) or double backslashes (\\).
 
-## Syllabi Batch CSV to Cleaned Data
+# Syllabi Batch CSV to Cleaned Data
+
