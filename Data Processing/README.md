@@ -39,3 +39,5 @@ This notebook helps you extract tables from multiple Word documents (.docx) and 
 ## Troubleshooting
 * If you see errors about missing libraries, run the install commands above.
 * Make sure your folder paths are correct and use forward slashes (/) or double backslashes (\\).
+
+## Syllabi Batch CSV to Cleaned Data
