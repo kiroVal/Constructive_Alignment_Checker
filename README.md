@@ -34,3 +34,4 @@ This project, "Syllabi-Verification-Py-Model," is a Python-based application des
   - Instead of manually going through each syllabus, the tool processes them in bulk. This reduces human error and saves significant time for faculty and administrators.
 
 
+
