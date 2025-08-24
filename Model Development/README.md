@@ -27,6 +27,9 @@ The Constructive Alignment Checker (`CAC.ipynb`) automates the evaluation of cou
 - **scikit-learn:** For similarity calculations.
 - **Custom Rule-Based Logic:** For alignment scoring and feedback.
 
+### Large Language Models (LLM)
+Using large language models to analyze the structure and semantics of syllabus content enables the model to identify Bloom's taxonomy verbs across Learning Outcomes (LOs), Deliverables/Outputs (DOs), and Assessments/Tasks (ATs). This approach supports contextual interpretation even when syllabi use varied or implicit phrasing.
+
 ---
 
 ## Step-by-Step Usage
