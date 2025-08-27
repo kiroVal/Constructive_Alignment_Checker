@@ -1,6 +1,23 @@
 ## Syllabi-Verification-Py-Model: Bloom's Taxonomy and OBE Alignment
 
-This project, "Syllabi-Verification-Py-Model," is a Python-based application designed to analyze and verify a syllabus. Its primary function is to check if the syllabus's content is aligned with the principles of Bloom's Taxonomy and Outcome-Based Education (OBE).  
+This project, "Syllabi-Verification-Py-Model," is a Python-based application designed to analyze and verify a syllabus. Its primary function is to check if the syllabus's content is aligned with the principles of Bloom's Taxonomy and Outcome-Based Education (OBE).
+
+## 🎓 Thesis Defense Resources
+
+**For thesis defense preparation, see:**
+- 📖 **[THESIS_DEFENSE_GUIDE.md](THESIS_DEFENSE_GUIDE.md)** - Complete Q&A preparation guide
+- 🐍 **[thesis_defense_demo.py](thesis_defense_demo.py)** - Standalone demo script (no trained models required)
+- ⚙️ **[setup_defense.sh](setup_defense.sh)** - Automated environment setup
+- 📋 **[requirements.txt](requirements.txt)** - Python dependencies
+
+### Quick Defense Setup
+```bash
+# Run the setup script
+./setup_defense.sh
+
+# Or manually run the demo
+python thesis_defense_demo.py
+```
 
 ## Tools Used
 
