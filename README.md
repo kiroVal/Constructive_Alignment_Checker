@@ -16,6 +16,9 @@ This project, "Syllabi-Verification-Py-Model," is a Python-based application des
 + re (Regular Expressions)  
   - Cleans and standardizes text in headers, ensuring that different formats (e.g., "Assessment" vs "Assessments") are treated consistently.
 
++ Large Language Models (LLM)  
+  - Uses transformer-based models to analyze syllabus content semantics and identify Bloom's taxonomy verbs across Learning Outcomes, Deliverables, and Assessments, supporting contextual interpretation of varied phrasing.
+
 ## Data Processing
 
 + Automated Syllabus Reading:  
